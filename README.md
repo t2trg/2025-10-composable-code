@@ -8,6 +8,7 @@ From different authors and provenances, with independent upgrades?
 With isolation, so a broken or even malicious component cannot break the rest of the code?
 Can the same code be run on different platforms?  “Plug and play”?
 What are the common system and communication interfaces that enable that portability?
+Can we use this for dynamically assigning tasks to Things, aiding resource allocation, fault management and graceful degradation?
 
 In a T2TRG interim (online) meeting in October 2025, we look at the
 state of the art and explore ways forward to composable code for
